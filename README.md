@@ -6,6 +6,18 @@
 
 - Электронная почта: yantsabut777@yandex.ru
 - Телеграмм: https://t.me/yan_tsabut
+
+## В своих проектах я использую :
+ - Java
+ - Kotlin
+ - AndroidSDK
+ - Git
+ - RxJava
+ - Dagger
+ - Koin
+ - SQLite
+ - Room
+
 <!--
 **yantsabut/yantsabut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
